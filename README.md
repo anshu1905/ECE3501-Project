@@ -52,8 +52,9 @@ python masterclass.py
 
 https://thingspeak.com/channels/1578749
 
+
+<p>Channel Screenshot</p>
 <p align="center">
-  <p>Channel Scrrenshot</p>
   <img src="thingspeak_channel.png">
 </p>
  
