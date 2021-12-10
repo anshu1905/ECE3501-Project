@@ -33,15 +33,16 @@ pip install pillow
   <img src="sketch.png">
 </p>
 
-## Upload the following code to the Arduino Uno Board
-```
-data_fetch_sstv.ino
-```
 ## Block Diagram 
 <p align="center">
   <img src="block_diagram_iot_project.png">
 </p>
 <br>
+
+## Upload the following code to the Arduino Uno Board
+```
+data_fetch_sstv.ino
+```
 
 ## Arduino Serial Monitor 
 <p align="center">
@@ -49,6 +50,17 @@ data_fetch_sstv.ino
 </p>
 <br>
 
+
+## For transmitting the image(data) through sstv run the following 
+```
+python sstv_image_send.py
+```
+
+## For receiving back the image(data) and putting it up on thingspeak run the following 
+```
+python python2thingspeak.py
+python masterclass.py
+```
 
 ## Text(Sensor Data) to Image
 <p align="center">
@@ -61,17 +73,6 @@ data_fetch_sstv.ino
   <img src="Image2Text.png">
 </p>
 <br>
-
-## For transmitting the image(data) through sstv run the following 
-```
-python sstv_image_send.py
-```
-
-## For receiving back the image(data) and putting it up on thingspeak run the following 
-```
-python python2thingspeak.py
-python masterclass.py
-```
 
 ## Thingspeak Channel
 
