@@ -52,6 +52,11 @@ python masterclass.py
 
 https://thingspeak.com/channels/1578749
 
+<p align="center">
+  <p>Channel Scrrenshot</p>
+  <img src="thingspeak_channel.png">
+</p>
+ 
 ## Video Demonstration
 
 https://drive.google.com/drive/u/1/folders/1sVIIqHa9b1y_xpHrPC9CtE0m2hM2E_ia
