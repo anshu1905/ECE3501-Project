@@ -32,6 +32,10 @@ pip install pillow
 <p align="center">
   <img src="sketch.png">
 </p>
+<br>
+<p align="center">
+  <img src="circuit_diagram1.jpeg">
+</p>
 
 ## Block Diagram 
 <p align="center">
@@ -49,7 +53,9 @@ data_fetch_sstv.ino
   <img src="Arduino Serial Monitor.png">
 </p>
 <br>
-
+<p align="center">
+  <img src="circuit_diagram2.jpeg">
+</p>
 
 ## For transmitting the image(data) through sstv run the following 
 ```
