@@ -1,5 +1,6 @@
 # ECE3501 IoT Fundamentls Project
-## L47+L48
+# SSTV-Based IoT Data Acquisition and Analytics for remote regions
+
 ## Team Members
 * Anshuman Phadke – 19BEC0428
 * Anirudh Karnik – 19BEC0353
@@ -32,10 +33,23 @@ pip install pillow
   <img src="sketch.png">
 </p>
 
+## Block Diagram 
+<p align="center">
+  <img src="block_diagram_iot_project.png">
+</p>
+<br>
+
 ## Upload the following code to the Arduino Uno Board
 ```
 data_fetch_sstv.ino
 ```
+
+## Arduino Serial Monitor 
+<p align="center">
+  <img src="Arduino Serial Monitor.png">
+</p>
+<br>
+
 
 ## For transmitting the image(data) through sstv run the following 
 ```
@@ -47,6 +61,18 @@ python sstv_image_send.py
 python python2thingspeak.py
 python masterclass.py
 ```
+
+## Text(Sensor Data) to Image
+<p align="center">
+  <img src="Text2Image.png">
+</p>
+<br>
+
+## Image to Text(Sensor Data) 
+<p align="center">
+  <img src="Image2Text.png">
+</p>
+<br>
 
 ## Thingspeak Channel
 
