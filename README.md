@@ -30,16 +30,16 @@ pip install pillow
 
 ## Make the following ciruit connections   
 <p align="center">
-  <img src="sketch.png">
+  <img src="transmission_images\sketch.png">
 </p>
 <br>
 <p align="center">
-  <img src="circuit_diagram1.jpeg">
+  <img src="transmission_images\circuit_diagram1.jpeg">
 </p>
 
 ## Block Diagram 
 <p align="center">
-  <img src="block_diagram_iot_project.png">
+  <img src="transmission_images\block_diagram_iot_project.png">
 </p>
 <br>
 
@@ -50,11 +50,11 @@ data_fetch_sstv.ino
 
 ## Arduino Serial Monitor 
 <p align="center">
-  <img src="Arduino Serial Monitor.png">
+  <img src="transmission_images\Arduino Serial Monitor.png">
 </p>
 <br>
 <p align="center">
-  <img src="circuit_diagram2.jpeg">
+  <img src="transmission_images\circuit_diagram2.jpeg">
 </p>
 
 ## For transmitting the image(data) through sstv run the following 
@@ -70,13 +70,13 @@ python masterclass.py
 
 ## Text(Sensor Data) to Image
 <p align="center">
-  <img src="Text2Image.png">
+  <img src="transmission_images\Text2Image.png">
 </p>
 <br>
 
 ## Image to Text(Sensor Data) 
 <p align="center">
-  <img src="Image2Text.png">
+  <img src="reception_images\Image2Text.png">
 </p>
 <br>
 
@@ -87,7 +87,7 @@ https://thingspeak.com/channels/1578749
 
 <p>Channel Screenshot</p>
 <p align="center">
-  <img src="thingspeak_channel.png">
+  <img src="reception_images\thingspeak_channel.png">
 </p>
  
 ## Video Demonstration
