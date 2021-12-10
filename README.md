@@ -29,7 +29,7 @@ pip install pillow
 
 ## Make the following ciruit connections   
 <p align="center">
-  <img src="">
+  <img src="sketch.png">
 </p>
 
 ## Upload the following code to the Arduino Uno Board
